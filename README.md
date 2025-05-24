@@ -1,4 +1,4 @@
-<h2 align="left">Hello, my name is Raymundo, I'm a university student and this is my profile.</h2>
+<h2 align="left">Hello, My name is Raymundo, I'm a university student and this is my profile.</h2>
 
 ###
 
