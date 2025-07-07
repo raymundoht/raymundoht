@@ -5,11 +5,11 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="HTML logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="CSS logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
