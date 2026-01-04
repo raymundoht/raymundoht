@@ -11,9 +11,9 @@
 ## 🚀 Sobre mí
 Soy un apasionado del desarrollo de software con un perfil multidisciplinario. Me especializo en crear soluciones robustas (Backend) y experiencias visuales atractivas (Frontend y Diseño). 
 
-* 🌍 Basado en: **México**
+* 🌍 Locacion en: Chihuahua, Chihuahua México
 * ⚡ Intereses: Desarrollo Web, IoT, Diseño UI/UX y Animación 3D.
-* 💬 Pregúntame sobre: **C#, Python, React o Blender**.
+* 💬 Pregúntame sobre: **C#, Python, React o Blender**, Etc.
 
 ---
 
@@ -42,15 +42,18 @@ Soy un apasionado del desarrollo de software con un perfil multidisciplinario. M
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raymundoht&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundoht&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raymundoht&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="Estadísticas de Raymundo" width="480" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raymundoht&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundoht&layout=compact&theme=dark&hide_border=false" alt="Lenguajes más usados" width="350" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raymundoht&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
