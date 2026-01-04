@@ -47,7 +47,6 @@ Soy un apasionado del desarrollo de software con un perfil multidisciplinario. M
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raymundoht&theme=react-dark&hide_border=true" width="100%" />
 </p>
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/raymundoht/raymundoht/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
