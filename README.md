@@ -48,12 +48,8 @@ Soy un apasionado del desarrollo de software con un perfil multidisciplinario. M
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raymundoht&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundoht&layout=compact&theme=dark&hide_border=false" alt="Lenguajes más usados" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raymundoht&theme=dark&hide_border=false" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/raymundoht/raymundoht/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
