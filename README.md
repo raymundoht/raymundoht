@@ -44,8 +44,8 @@ Soy un apasionado del desarrollo de software con un perfil multidisciplinario. M
 
 ## 📊 Mis Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raymundoht&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="Estadísticas de Raymundo" width="480" />
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raymundoht&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
