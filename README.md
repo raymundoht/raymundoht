@@ -13,7 +13,7 @@ Soy un apasionado del desarrollo de software con un perfil multidisciplinario. M
 
 * 🌍 Locacion en: Chihuahua, Chihuahua México
 * ⚡ Intereses: Desarrollo Web, IoT, Diseño UI/UX y Animación 3D.
-* 💬 Pregúntame sobre: **C#, Python, React o Blender**, Etc.
+* 💬 Lenguajes: **C#, Python, React o Blender**, Etc.
 
 ---
 
