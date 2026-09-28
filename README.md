@@ -1,4 +1,4 @@
-<div align="center">
+x<div align="center">
 
 # 👋 Hola, soy Raymundo Herrera
 
@@ -17,37 +17,93 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
-```javascript
-const raymundo = {
-  role: "Software Developer & Creative Designer",
-  location: "Chihuahua, México 🇲🇽",
+<div align="center">
 
-  passions: [
-    "Web Development",
-    "Software Architecture",
-    "UI/UX Design",
-    "IoT",
-    "Graphic Design",
-    "3D",
-  ],
+### Building digital experiences where **code, design and innovation** come together.
 
-  currentlyLearning: [
-    "Backend Development",
-    "Cloud Technologies",
-    "Artificial Intelligence",
-    "Software Architecture",
-  ],
+<p>
+Soy desarrollador de software y diseñador digital enfocado en crear soluciones modernas, funcionales y visualmente atractivas.
+</p>
 
-  philosophy: "Build technology that looks as good as it works."
-};
-```
+<p>
+Me gusta transformar ideas en <b>aplicaciones web, interfaces, sistemas, APIs y experiencias digitales</b> que no solo funcionen bien, sino que también se vean bien.
+</p>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 💻 Development
+
+Frontend, Backend, APIs y sistemas web modernos.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Full_Stack-58A6FF?style=for-the-badge" />
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🎨 Design
+
+UI/UX, branding, diseño gráfico y contenido digital.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Creative_Design-FF6B9E?style=for-the-badge" />
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🚀 Innovation
+
+IoT, arquitectura de software, IA y nuevas tecnologías.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Innovation-8B5CF6?style=for-the-badge" />
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🔭 Currently Exploring
+
+<img src="https://img.shields.io/badge/Backend_Development-161B22?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Software_Architecture-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud-161B22?style=flat-square&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT-161B22?style=flat-square&logo=arduino&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ✦ My approach
+
+**Functional code. Clean interfaces. Strong visual identity.**
+
+</div>
 
 Soy desarrollador de software y diseñador digital enfocado en crear productos donde **tecnología, diseño y experiencia de usuario** trabajen juntos.
 
-Me gusta convertir ideas en experiencias digitales funcionales: desde interfaces y aplicaciones web hasta APIs, sistemas administrativos, proyectos IoT, branding y contenido visual.
+Me gusta convertir ideas en experiencias digitales funcionales, desde interfaces y aplicaciones web hasta APIs, sistemas administrativos, proyectos IoT, branding y contenido visual.
 
 ---
 
@@ -55,35 +111,41 @@ Me gusta convertir ideas en experiencias digitales funcionales: desde interfaces
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 💻 Development
+<h3>💻 Development</h3>
 
-- 🌐 Full Stack Web Development
-- ⚛️ Modern Frontend Applications
-- ⚙️ Backend & REST APIs
-- 🗄️ Database Integration
-- ☁️ Software Architecture
-- 🔌 Internet of Things
-- 📱 Responsive Web Applications
-- 🤖 AI-assisted Solutions
+<ul>
+<li>🌐 Full Stack Web Development</li>
+<li>⚛️ Modern Frontend Applications</li>
+<li>⚙️ Backend & REST APIs</li>
+<li>🗄️ Database Integration</li>
+<li>☁️ Software Architecture</li>
+<li>🔌 Internet of Things</li>
+<li>📱 Responsive Web Applications</li>
+<li>🤖 AI-assisted Solutions</li>
+</ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎨 Creative
+<h3>🎨 Creative</h3>
 
-- 🎨 UI / UX Design
-- 🖌️ Graphic Design
-- ✦ Branding
-- 📲 Social Media Design
-- 🎬 Motion Graphics
-- 🧊 3D Modeling
-- 📈 Digital Marketing
-- 🛒 E-commerce Experiences
+<ul>
+<li>🎨 UI / UX Design</li>
+<li>🖌️ Graphic Design</li>
+<li>✦ Branding</li>
+<li>📲 Social Media Design</li>
+<li>🎬 Motion Graphics</li>
+<li>🧊 3D Modeling</li>
+<li>📈 Digital Marketing</li>
+<li>🛒 E-commerce Experiences</li>
+</ul>
 
 </td>
+
 </tr>
 </table>
 
@@ -91,7 +153,7 @@ Me gusta convertir ideas en experiencias digitales funcionales: desde interfaces
 
 # 🛠️ Tech Stack
 
-### Languages
+## 💻 Languages
 
 <div align="center">
 
@@ -99,7 +161,9 @@ Me gusta convertir ideas en experiencias digitales funcionales: desde interfaces
 
 </div>
 
-### Frameworks & Frontend
+<br/>
+
+## ⚛️ Frontend & Frameworks
 
 <div align="center">
 
@@ -107,7 +171,9 @@ Me gusta convertir ideas en experiencias digitales funcionales: desde interfaces
 
 </div>
 
-### Backend & Databases
+<br/>
+
+## ⚙️ Backend & Databases
 
 <div align="center">
 
@@ -115,7 +181,9 @@ Me gusta convertir ideas en experiencias digitales funcionales: desde interfaces
 
 </div>
 
-### Development Tools
+<br/>
+
+## 🧰 Development Tools
 
 <div align="center">
 
@@ -133,9 +201,9 @@ Me gusta convertir ideas en experiencias digitales funcionales: desde interfaces
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white" />
 <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
 <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_Acrobat-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
@@ -149,6 +217,7 @@ Me gusta convertir ideas en experiencias digitales funcionales: desde interfaces
 <div align="center">
 
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+
 <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
 
 </div>
@@ -158,101 +227,145 @@ Me gusta convertir ideas en experiencias digitales funcionales: desde interfaces
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🏋️ GYMNAI
+<h3>🏋️ GYMNAI</h3>
 
-**Modern Gym ERP & Management System**
+<b>Modern Gym ERP & Management System</b>
 
+<p>
 Sistema administrativo orientado a gimnasios con módulos para operaciones del negocio y una interfaz moderna.
+</p>
 
-**Features**
+<b>Features</b>
 
-- Point of Sale
-- Inventory Management
-- Purchases
-- Access Control
-- Administrative Dashboard
-- Responsive Interface
+<ul>
+<li>Point of Sale</li>
+<li>Inventory Management</li>
+<li>Purchases</li>
+<li>Access Control</li>
+<li>Administrative Dashboard</li>
+<li>Responsive Interface</li>
+</ul>
 
-**Stack**
+<b>Stack</b>
 
-`React` `Tailwind CSS` `JavaScript`
+<br/><br/>
+
+<code>React</code>
+<code>Tailwind CSS</code>
+<code>JavaScript</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📦 Nexo ERP
+<h3>📦 Nexo ERP</h3>
 
-**Inventory & Business Management Platform**
+<b>Inventory & Business Management Platform</b>
 
+<p>
 ERP web diseñado para centralizar operaciones, usuarios e inventarios dentro de una sola plataforma.
+</p>
 
-**Features**
+<b>Features</b>
 
-- Role Based Access Control
-- Inventory Management
-- Authentication
-- Email Verification
-- Password Recovery
-- Payment Integration
+<ul>
+<li>Role Based Access Control</li>
+<li>Inventory Management</li>
+<li>Authentication</li>
+<li>Email Verification</li>
+<li>Password Recovery</li>
+<li>Payment Integration</li>
+</ul>
 
-**Stack**
+<b>Stack</b>
 
-`Next.js` `Prisma` `Supabase` `Stripe`
+<br/><br/>
+
+<code>Next.js</code>
+<code>Prisma</code>
+<code>Supabase</code>
+<code>Stripe</code>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 📊 SGEI
+<h3>📊 SGEI</h3>
 
-**Survey & Academic Management System**
+<b>Survey & Academic Management System</b>
 
+<p>
 Aplicación web orientada a la administración y consulta de información académica y encuestas.
+</p>
 
-**Features**
+<b>Features</b>
 
-- Authentication
-- Course Management
-- Instructor Management
-- Groups & Campus Management
-- Survey System
-- Reports
+<ul>
+<li>Authentication</li>
+<li>Course Management</li>
+<li>Instructor Management</li>
+<li>Groups & Campus Management</li>
+<li>Survey System</li>
+<li>Reports</li>
+</ul>
 
-**Stack**
+<b>Stack</b>
 
-`Vue 3` `Quasar` `Pinia` `Node.js` `Express` `MySQL`
+<br/><br/>
+
+<code>Vue 3</code>
+<code>Quasar</code>
+<code>Pinia</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MySQL</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 Digital Experiences
+<h3>🌐 Digital Experiences</h3>
 
-**Web Design & Development**
+<b>Web Design & Development</b>
 
+<p>
 Desarrollo de experiencias digitales para negocios y marcas combinando frontend, UI/UX y diseño visual.
+</p>
 
-**Experience**
+<b>Experience</b>
 
-- Landing Pages
-- Corporate Websites
-- Responsive Design
-- UI Development
-- Interactive Interfaces
-- Digital Branding
+<ul>
+<li>Landing Pages</li>
+<li>Corporate Websites</li>
+<li>Responsive Design</li>
+<li>UI Development</li>
+<li>Interactive Interfaces</li>
+<li>Digital Branding</li>
+</ul>
 
-**Stack**
+<b>Stack</b>
 
-`React` `Next.js` `Vite` `Tailwind CSS` `Figma`
+<br/><br/>
+
+<code>React</code>
+<code>Next.js</code>
+<code>Vite</code>
+<code>Tailwind CSS</code>
+<code>Figma</code>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -261,34 +374,42 @@ Desarrollo de experiencias digitales para negocios y marcas combinando frontend,
 
 <div align="center">
 
-`Software Development` ·
-`Web Development` ·
-`Frontend` ·
-`Backend` ·
-`UI/UX` ·
-`IoT` ·
-`Cloud` ·
-`Artificial Intelligence` ·
-`3D` ·
-`Digital Marketing`
+<img src="https://img.shields.io/badge/Software_Development-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Web_Development-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Frontend-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/UI%2FUX-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/3D_Modeling-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Digital_Marketing-161B22?style=flat-square" />
 
 </div>
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raymundoht&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raymundoht&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raymundoht&theme=github-dark-blue&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raymundoht&theme=github-dark-blue&hide_border=true" />
 
-<br/><br/>
+</div>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundoht&layout=compact&theme=github_dark&hide_border=true" />
+<br/>
 
-<br/><br/>
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymundoht&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raymundoht&theme=github-compact&hide_border=true&area=true" />
 
@@ -296,45 +417,35 @@ Desarrollo de experiencias digitales para negocios y marcas combinando frontend,
 
 ---
 
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/raymundoht/raymundoht/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-
-</div>
-
----
-
-# 🌎 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/raymundo-herrera-6453a8356/">
-<img src="https://img.shields.io/badge/LinkedIn-Raymundo_Herrera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Raymundo_Herrera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://discord.com/users/rayo3787">
-<img src="https://img.shields.io/badge/Discord-rayo3787-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-rayo3787-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <a href="https://www.twitch.tv/raymundo__h">
-<img src="https://img.shields.io/badge/Twitch-raymundo__h-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitch-raymundo__h-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-<div align="center">
-
 ---
+
+<div align="center">
 
 ### ✦ Code · Design · Innovation
 
 **Building digital experiences where technology meets creativity.**
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=raymundoht&label=Profile%20Views&color=58A6FF&style=flat-square" />
 
