@@ -1,166 +1,174 @@
-# 👋 ¡Hola! Soy Raymundo Herrera
+<div align="center">
 
-### 💻 Software Developer | 🎨 Creative Designer | 🚀 Digital Innovator
+# 👋 Hola, soy Raymundo Herrera
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-Chihuahua%2C%20México-006847?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Languages-English%20(B1)%20%7C%20Spanish-blue?style=flat-square" />
+### Software Developer · Creative Designer · Digital Innovator
+
+Desarrollo experiencias digitales donde **software, diseño y tecnología** trabajan juntos para crear productos funcionales, modernos y visualmente atractivos.
+
+<p>
+  <img src="https://img.shields.io/badge/📍_Chihuahua,_México-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to_Work-22C55E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-B1/B2-2563EB?style=for-the-badge" />
 </p>
+
+</div>
 
 ---
 
-## 🚀 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy un desarrollador de software y creativo digital apasionado por construir soluciones tecnológicas que combinan funcionalidad, diseño y experiencia de usuario.
+Soy desarrollador de software y diseñador digital enfocado en crear soluciones que combinen **tecnología, experiencia de usuario y comunicación visual**.
 
-Me especializo en el desarrollo de aplicaciones web, sistemas IoT, APIs, interfaces modernas y diseño visual para marcas y productos digitales.
+Trabajo principalmente con aplicaciones web modernas, interfaces, APIs, bases de datos y proyectos digitales. También tengo experiencia en diseño gráfico, branding, contenido para redes sociales, edición multimedia y modelado 3D.
 
-### 🎯 Actualmente enfocado en:
+Actualmente sigo expandiendo mis conocimientos en desarrollo Full Stack, arquitectura de software, IoT e inteligencia artificial.
 
-- 🌐 Desarrollo Web Full Stack
-- 🔌 Internet de las Cosas (IoT)
-- ☁️ Arquitectura de Software
-- 📱 Aplicaciones Web Responsivas
-- 🎨 UI/UX Design
-- 🖌️ Diseño Publicitario y Branding
-- 🎬 Motion Graphics
-- 🧊 Modelado y Renderizado 3D
-- 📈 Marketing Digital y E-commerce
+---
 
-### 📍 Ubicación
+## ⚡ Actualmente enfocado en
 
-Chihuahua, Chihuahua, México 🇲🇽
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Desarrollo
+
+- Full Stack Development
+- Frontend Development
+- Backend & APIs
+- Software Architecture
+- Responsive Web Apps
+- IoT Solutions
+
+</td>
+<td width="50%">
+
+### 🎨 Creatividad
+
+- UI/UX Design
+- Graphic Design
+- Branding
+- Motion Graphics
+- 3D Modeling
+- Digital Marketing
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Desarrollo de Software
+## 💻 Languages & Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,nodejs,react,angular,nextjs,vite,html,css,tailwind,bootstrap,mysql,mongodb,firebase,git,github,vscode,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,nodejs,html,css&perline=8" />
+</p>
+
+## ⚛️ Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,tailwind,bootstrap,materialui,sass&perline=8" />
+</p>
+
+## 🗄️ Databases & Backend Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,nodejs,postman&perline=8" />
+</p>
+
+## ⚙️ Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" />
 </p>
 
 ---
 
-## 🎨 Diseño, Multimedia y Creatividad
+# 🎨 Design & Creative Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,blender" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,blender&perline=8" />
 </p>
 
 ### Adobe Creative Cloud
 
-<p align="left">
+<p align="center">
 
-<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Adobe_Lightroom_Classic-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Adobe_Acrobat-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Adobe_Express-FF0000?style=for-the-badge&logo=adobeexpress&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white" />
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" />
+<img src="https://img.shields.io/badge/Acrobat-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Express-FF0000?style=flat-square&logo=adobeexpress&logoColor=white" />
 
 </p>
 
 ---
 
-## 🧊 Modelado 3D e Ingeniería
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-
-</p>
-
----
-
-## 🌐 Frontend & UI Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,materialui,sass,figma" />
-
-</p>
-
-### Experiencia con
-
-- React
-- Next.js
-- Angular
-- Tailwind CSS
-- Bootstrap
-- Material UI
-- Responsive Design
-- UI/UX Design
-- Design Systems
-- Wireframing
-- Prototyping
-
----
-
-## 📊 GitHub Activity
+# 🧊 3D & Engineering
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raymundoht&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
 </p>
 
 ---
 
-## 🎯 Áreas de Interés
+# 🚀 What I Build
 
 ```text
-💻 Software Development
-🌐 Web Development
-📱 Mobile Apps
-🔌 Internet of Things (IoT)
-☁️ Cloud Technologies
-🎨 Graphic Design
-🧊 3D Modeling
-📈 Digital Marketing
-🛒 E-Commerce
-🤖 Artificial Intelligence
+🌐 Modern Web Applications
+⚙️ Full Stack Systems
+🔗 REST APIs
+📱 Responsive Interfaces
+🔌 IoT Projects
+🎨 UI/UX Experiences
+🖌️ Digital Branding
+🧊 3D Visualizations
+📈 Marketing Experiences
+🤖 AI-powered solutions
 ```
 
 ---
 
-## 📫 Contacto
+# 📊 GitHub Activity
 
-<p align="left">
+<div align="center">
 
-<a href="https://linkedin.com/in/raymundo-herrera-6453a8356/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raymundoht&theme=github-compact&hide_border=true" />
 
-<a href="https://discord.com/users/rayo3787" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://www.twitch.tv/raymundo__h" target="_blank">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+# 🤝 Let's Connect
 
-### ✨ "Code, Design and Innovation working together."
+<div align="center">
 
-</p>
+<a href="https://linkedin.com/in/raymundo-herrera-6453a8356/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/rayo3787">
+<img src="https://img.shields.io/badge/Discord-rayo3787-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://www.twitch.tv/raymundo__h">
+<img src="https://img.shields.io/badge/Twitch-raymundo__h-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✦ Code · Design · Innovation
+
+**Building digital experiences where technology meets creativity.**
+
+</div>
